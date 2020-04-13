@@ -5,7 +5,4 @@ class GraphqlifyTest < Minitest::Test
     refute_nil ::Graphqlify::VERSION
   end
 
-  def test_it_does_something_useful
-    assert false
-  end
 end
